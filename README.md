@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <h3 align="center">I am passionate about solving complex problems through innovative and efficient code. My goal is to continuously improve my skills and contribute to the growth of the tech industry.</h3>
 
-<img align="right" width="400" height="400" src="https://media.giphy.com/media/H1f1T0tKK4jEfNt6MG/giphy.gif">
+<img align="right" width="300" height="300" src="https://media.giphy.com/media/H1f1T0tKK4jEfNt6MG/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashasvirao&label=Profile%20views&color=0e75b6&style=flat" alt="yashasvirao" /> </p>
 
