@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="right" width="1200" src="[https://media.giphy.com/media/H1f1T0tKK4jEfNt6MG/giphy.gif](https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif)">
+![MasterHead](https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif)">
 <h1 align="center">Hi, I'm Yashasvi Sankineni 😄</h1>
 
 <h3 align="center">I am passionate about solving complex problems through innovative and efficient code. My goal is to continuously improve my skills and contribute to the growth of the tech industry.</h3>
