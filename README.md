@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **yashasvis2000@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ZKthfZemZu8ePHfs4USm2NztDllBvDKG/view?usp=share_link](https://drive.google.com/file/d/1ZKthfZemZu8ePHfs4USm2NztDllBvDKG/view?usp=share_link)
+- 📄 [Know about my experiences](https://drive.google.com/file/d/11MVtMeTC3lWtWronCVsh9yL3B36MwB9k/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
