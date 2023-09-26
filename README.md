@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![MasterHead](https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif)">
+![MasterHead](https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif)
 <h1 align="center">Hi, I'm Yashasvi Sankineni 😄</h1>
 
 <h3 align="center">I am passionate about solving complex problems through innovative and efficient code. My goal is to continuously improve my skills and contribute to the growth of the tech industry.</h3>
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **yashasvis2000@gmail.com**
 
-- 📄 [Know about my experiences](https://drive.google.com/file/d/11MVtMeTC3lWtWronCVsh9yL3B36MwB9k/view?usp=sharing)
+- 📄 [Know about my experiences - Resume](https://drive.google.com/file/d/11MVtMeTC3lWtWronCVsh9yL3B36MwB9k/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
