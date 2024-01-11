@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **yashasvi.sankineni@sjsu.edu**
 
-- 📄 [Know about my experiences - Resume](https://docs.google.com/document/d/1sc3yHeE2CkbVFwMOQ2doVQXiTpzkub9x/edit?usp=drive_link&ouid=100225092019944676362&rtpof=true&sd=true)
+- 📄 [Know about my experiences - Resume](https://docs.google.com/document/d/157Lu5rV5-LuGE7uJ3cDFA1lrAeJnEyAR/edit?usp=sharing&ouid=100225092019944676362&rtpof=true&sd=true)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
